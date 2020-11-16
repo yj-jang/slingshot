@@ -60,3 +60,4 @@ If you would like to use a dataset that you don't see listed here, please submit
 | KITTI-raw data | Autonomous Driving | 442G | point cloud, image | http://www.cvlibs.net/datasets/kitti/raw_data.php |
 | NEAR-VI-Dataset | The NetEase AR Oriented Visual Inertial Dataset | 175G | gif | https://github.com/EZXR-Research/NEAR-VI-Dataset |
 | Top 100 Crypto Investor Dataset | Crypto price and project analytics | 9 GB | Various |  https://www.kaggle.com/georgemac510/top-100-crypto-dataset |
+| Mitosis WSI CCMCT Test Set | Large-scale mitotic figure data set on canine cutaneous mast cell tumor | 12.11 GB | Various |  https://www.kaggle.com/marcaubreville/mitosis-wsi-ccmct-test-set |
